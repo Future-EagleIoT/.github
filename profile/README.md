@@ -39,18 +39,6 @@ We believe the future belongs to those who connect it — and we're here to lead
 
 ---
 
-## 🔬 Featured Projects
-
-### 🌦️ [Connected Weather Station](https://github.com/EagleIoT/Connected-Weather-Station)
-> A fully connected IoT weather monitoring system built with **C++**, capable of capturing real-time environmental data and transmitting it to the cloud.
-
-- 📊 Real-time temperature, humidity & atmospheric readings
-- 📡 Remote data access via connected protocols
-- 🔩 Embedded hardware integration
-- ☁️ Cloud-ready data pipeline
-
----
-
 ## 🧰 Our Tech Stack
 
 <div align="center">
