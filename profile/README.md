@@ -86,15 +86,6 @@ We believe the future belongs to those who connect it — and we're here to lead
 ![Followers](https://img.shields.io/github/followers/EagleIoT?label=Followers&style=for-the-badge&logo=github&color=00BCD4&labelColor=0d1117)
 ![Stars](https://img.shields.io/github/stars/EagleIoT?label=Total%20Stars&style=for-the-badge&logo=github&color=00BCD4&labelColor=0d1117)
 
----
-
-### 🌦️ Connected Weather Station
-
-![Last Commit](https://img.shields.io/github/last-commit/EagleIoT/Connected-Weather-Station?style=for-the-badge&logo=github&color=00BCD4&labelColor=0d1117)
-![Repo Size](https://img.shields.io/github/repo-size/EagleIoT/Connected-Weather-Station?style=for-the-badge&logo=github&color=00BCD4&labelColor=0d1117)
-![Language](https://img.shields.io/github/languages/top/EagleIoT/Connected-Weather-Station?style=for-the-badge&color=00BCD4&labelColor=0d1117)
-![Issues](https://img.shields.io/github/issues/EagleIoT/Connected-Weather-Station?style=for-the-badge&logo=github&color=00BCD4&labelColor=0d1117)
-
 </div>
 
 ---
