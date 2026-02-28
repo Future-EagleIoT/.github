@@ -7,7 +7,7 @@
 ### *Connecting the World. Powering the Future.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Future%20Eagle%20IoT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/future-eagle-iot)
-[![GitHub](https://img.shields.io/badge/GitHub-EagleIoT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EagleIoT)
+[![GitHub](https://img.shields.io/badge/GitHub-Future-EagleIoT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Future-EagleIoT)
 [![Location](https://img.shields.io/badge/📍%20Tunisia-North%20Africa-E70013?style=for-the-badge)](https://github.com/EagleIoT)
 
 ---
@@ -71,8 +71,8 @@ We believe the future belongs to those who connect it — and we're here to lead
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/EagleIoT?label=Followers&style=for-the-badge&logo=github&color=00BCD4&labelColor=0d1117)
-![Stars](https://img.shields.io/github/stars/EagleIoT?label=Total%20Stars&style=for-the-badge&logo=github&color=00BCD4&labelColor=0d1117)
+![Followers](https://img.shields.io/github/followers/Future-EagleIoT?label=Followers&style=for-the-badge&logo=github&color=00BCD4&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/Future-EagleIoT?label=Total%20Stars&style=for-the-badge&logo=github&color=00BCD4&labelColor=0d1117)
 
 </div>
 
@@ -91,7 +91,7 @@ We are open to **collaborations**, **partnerships**, and **open-source contribut
 <div align="center">
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/future-eagle-iot)
-[![Explore Repos](https://img.shields.io/badge/Explore-Our%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/EagleIoT/repositories)
+[![Explore Repos](https://img.shields.io/badge/Explore-Our%20Repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/Future-EagleIoT/repositories)
 
 </div>
 
