@@ -7,7 +7,7 @@
 ### *Connecting the World. Powering the Future.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Future%20Eagle%20IoT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/future-eagle-iot)
-[![GitHub](https://img.shields.io/badge/GitHub-Future-EagleIoT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Future-EagleIoT)
+[![GitHub](https://img.shields.io/badge/GitHub-EagleIoT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Future-EagleIoT)
 [![Location](https://img.shields.io/badge/📍%20Tunisia-North%20Africa-E70013?style=for-the-badge)](https://github.com/EagleIoT)
 
 ---
